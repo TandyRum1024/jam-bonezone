@@ -17,6 +17,12 @@
 ## Credits
 * All the assets except the music were made by me!
 * Music used : Chopin - Nocturne op.9 No.2 (slowed down using paulstretch effect & reverb effect applied in Audacity)
+* Font : [Sam3KRFont by hurss](https://github.com/hurss/fonts)
+
+## License
+* [The game's code (including the shader code) is licensed with GNU GENERAL PUBLIC LICENSE v3](COPYING.txt)
+* [The game's assets, excluding the ones mentioned in the Credits section (aka the ones that I have created : sprites & sounds) are licensed with Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+<br>For the full license of the game's code, refer to file `COPYING.txt`
 
 ## Developement progress & misc. footages
 ![d1](pics/DEV1.gif)
